@@ -1,0 +1,16 @@
+{
+  "name": "computer-parts-store",
+  "version": "1.0.0",
+  "description": "Computer parts store - Practical work 1",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
+}
